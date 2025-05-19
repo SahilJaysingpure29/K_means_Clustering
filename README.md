@@ -1,5 +1,5 @@
 # K_means_Clustering
-By Kunal Deshmukh
+By sahil jaysingpure
 🛍️ Mall Customer Segmentation using Machine Learning
 This project focuses on analyzing customer data from a shopping mall to identify meaningful customer segments. By using unsupervised machine learning techniques such as K-Means Clustering, we categorize customers based on attributes like age, annual income, and spending score.
 
